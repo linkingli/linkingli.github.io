@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# 人生就是一个不断学习的过程
 
-You can use the [editor on GitHub](https://github.com/linkingli/linkingli-linkingli.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+人生就是一个不断学习的过程，通过学习来充实自己的头脑，让自己更有智慧的生活下去，去探索那未知领域的神秘，去享受成长带来的快乐和惬意。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](qrcode_for_gh_0d3e241c6f10_258.jpg)
 
-### Markdown
+# 关于 blog-demos 代码仓库
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Github地址：[https://github.com/gozhuyinglong/blog-demos](https://github.com/gozhuyinglong/blog-demos/)
+2. Gitee地址：[https://gitee.com/gozhuyinglong/blog-demos](https://gitee.com/gozhuyinglong/blog-demos)
+3. 这个代码仓库里是博客中涉及的源码、文件等
+4. 如果对您有帮助，欢迎给个**Star**，感谢~~
 
-```markdown
-Syntax highlighted code block
+## 数据结构与算法
 
-# Header 1
-## Header 2
-### Header 3
+* [数组](https://mp.weixin.qq.com/s/YVbahU_0fzmyEX-JBvcnqQ)
+* [稀疏数组](https://mp.weixin.qq.com/s/YYemaomm10HiKs9MoKHKIw)
+* [链表（单链表、双链表、环形链表）](https://mp.weixin.qq.com/s/46ShChMslDGsV6xSObh5nQ)
+* [栈](https://mp.weixin.qq.com/s/dfv4WM_-agLpygCuzqQUTA)
+* [队列](https://mp.weixin.qq.com/s/64oTQJatNcBsfvrJKMQOWA)
+* [树](https://mp.weixin.qq.com/s/Ui5p4RQRwEHv4a_HWeXJYQ)
+* [二叉树](https://mp.weixin.qq.com/s/XkeEyUCCvQ_AtMLBUYTH0Q)
+* [二叉查找树（BST）](https://mp.weixin.qq.com/s/6S8M6r-EY4IMF3UUvZ7_AA)
+* [AVL树（平衡二叉树）](https://mp.weixin.qq.com/s/eeXi_11illdVqMnkse_mhQ)
+* [B树](https://mp.weixin.qq.com/s/Cx03l-ezvYjAKrmedup-aQ)
+* [散列表（哈希表）](https://mp.weixin.qq.com/s/oX28uyCbbaYQErT6RE-txg)
 
-- Bulleted
-- List
+## 设计模式
 
-1. Numbered
-2. List
+* [单例模式](https://mp.weixin.qq.com/s/bb2LhnCDUZfprHwLtAK18Q)
+* [策略模式](https://mp.weixin.qq.com/s/FfhMIrD72vBWTGJe5yJzxw)
 
-**Bold** and _Italic_ and `Code` text
+## 码农工具箱
 
-[Link](url) and ![Image](src)
-```
+* [教你使用GitHub搭建个人网站](https://mp.weixin.qq.com/s/fFP3sk8gaeG10dfZdPj4bQ)
+* [如何将代码同时提交到Github和码云Gitee上](https://mp.weixin.qq.com/s/7xvtYbW_U73QbAVW_4wCSw)
+* [80行Python代码搞定全国区划代码](https://mp.weixin.qq.com/s/RrryeSKCAwD61NHfjaFOrA)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Java源码解析
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/linkingli/linkingli-linkingli.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [Java反射机制：跟着代码学反射](https://mp.weixin.qq.com/s/-JfevVj0xVHBAZ_AgowZAQ)
+* [JDK动态代理：不仅要学会用，更要掌握其原理](https://mp.weixin.qq.com/s/0M7ENqhZ2IjmPeFbf_vEqQ)
